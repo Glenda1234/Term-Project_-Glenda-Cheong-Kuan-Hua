@@ -1,0 +1,83 @@
+header {
+    background-color: #ffa9eafb;
+    color: #ffff00;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #ff0055;
+}
+.abc {
+    height: 120px;    
+    width:221px;
+    background-color: #ffffff;
+}
+.navbar {
+    background-color:#ffff00;
+    border: solid;
+    color:#ffa9eafb;
+    font-size: 20px;
+    width: 1205px
+}
+.navbar th {
+    border: solid;
+    color:#ffff00;
+    padding: 5px;
+}
+.active{
+    background-color: rgba(255, 238, 0, 0.87);
+}
+button {
+    background-color: #ffa9eafb;
+    border: none;
+    color: rgb(250, 246, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+.edc {
+    background-color: #ffa9eafb;
+    color: #ffff00;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #ff0055;
+}
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url(../kirby\ imgs/kikiki.jpg);
+}
+.trailer {
+        float: right;
+}
+.gfh {
+    background-color: #ffa9eafb;
+    color: #ffff00;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #ff0055;
+}
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:#ff008c86;
+    color:rgb(255, 251, 0);
+    padding: 5px;
+    box-shadow: 5px 5px 10px #FFFF;
+}
+
+.dropdown:hover .dropdown-content {
+    display:block;
+}
+.footer {
+    background-color:#ff008c86;
+    border-color: #ffff00;
+    border-width: 15px;
+    width: 1200px;
+    height:110px;
+}
